@@ -1,4 +1,8 @@
-In this folder, we have the following:
+Code for Team: Decide Name Later
+
+This contains the **1-challenge.ipynb** file containing our submission for Parts 1-4
+
+Under the **\core** folder, we have the code for the main challenge, which consists of:
 
 1. Files starting with **bicycle** compares the two Bicycle LDPC Codes [16, 8, 4] and [24, 12, 6] across 3 decoders (PyMatching, Belief Propagation (BP), No QEC).
 2. Files starting with **concat3** compares Concatenation Codes where the inner code is a 3-bit repetition code and the outer codes are varying distance repetition codes.
